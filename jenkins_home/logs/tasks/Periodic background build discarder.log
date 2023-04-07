@@ -26,3 +26,15 @@ Started at Fri Apr 07 05:33:22 UTC 2023
 Processing my-first-job
 Offering my-first-job to Project Build Discarder
 Finished at Fri Apr 07 05:33:22 UTC 2023. 3ms
+Started at Fri Apr 07 06:33:22 UTC 2023
+Processing first-job
+Offering first-job to Project Build Discarder
+Processing maven-project
+Offering maven-project to Project Build Discarder
+Processing my-first-job
+Offering my-first-job to Project Build Discarder
+Processing test
+Offering test to Project Build Discarder
+Processing testss
+Offering testss to Project Build Discarder
+Finished at Fri Apr 07 06:33:22 UTC 2023. 4ms
